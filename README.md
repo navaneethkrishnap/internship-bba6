@@ -12,7 +12,8 @@ Drawing business insights from visitor behavior
 Comparing Python-based visualizations with Tableau and Power BI
 
 🛠 Tools Used:
-#
+
+
 Python (Colab)
 
 Pandas
